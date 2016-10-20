@@ -3,7 +3,7 @@
 ### Usage
 
 1. Download and extract one of the recent files linked below.
-2. Place `bootstrap.dat` file inside of your Dash folder:
+2. Place `bootstrap.dat` file inside of your QubitCoin folder:
  - Windows: `%APPDATA%\QubitCoin\`
  - Mac OS: `~/Library/Application Support/QubitCoin/`
  - Unix/Linux: `~/.QubitCoin/`
