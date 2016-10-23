@@ -1,4 +1,4 @@
--e # bootstrap.dat files for [QubitCoin](http://www.qubitcoin.com/)
+# bootstrap.dat files for [QubitCoin](http://www.qubitcoin.com/)
 
 ### Usage
 
