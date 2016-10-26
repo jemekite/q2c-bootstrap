@@ -21,9 +21,9 @@ size_zip=`ls -lh $file_zip | awk -F" " '{ print $5 }'`
 url_xz=`curl --upload-file $file_xz https://transfer.sh/$file_xz`
 url_zip=`curl --upload-file $file_zip https://transfer.sh/$file_zip`
 url_sha256=`curl --upload-file $file_sha256 https://transfer.sh/$file_sha256`
-newLinks="`Block $blocks: $date [xz]($url_xz) ($size_xz) [zip]($url_zip) ($size_zip) [SHA256]($url_sha256)`\n\n$prevLinks"
+newLinks="Block $blocks: $date [xz]($url_xz) ($size_xz) [zip]($url_zip) ($size_zip) [SHA256]($url_sha256)\n\n$prevLinks"
 echo -e "$newLinks" > links.md
-rm $file $file_zip $file_sha256 hashlist.txt
+rm $file $file_xz $file_zip $file_sha256 hashlist.txt
 echo -e "$header\n\n####For mainnet:\n\n$newLinks\n\n$footer" > README.md
 #push
 git add *.md
