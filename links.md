@@ -1,3 +1,5 @@
+-e Block 2050061: Sat Oct 29 04:00:01 UTC 2016 [xz](https://transfer.sh/RYMOD/bootstrap.dat.20161029.tar.xz) (362M) [zip](https://transfer.sh/8pmNI/bootstrap.dat.20161029.zip) (402M) [SHA256](https://transfer.sh/kY3UD/sha256.txt)
+
 Block 2046913: Fri Oct 28 04:37:21 UTC 2016 [xz](https://transfer.sh/Qi3tP/bootstrap.dat.20161028.tar.xz) (362M) [zip](https://transfer.sh/2xjGT/bootstrap.dat.20161028.zip) (402M) [SHA256](https://transfer.sh/GTxM5/sha256.txt)
 
 Block : Thu Oct 27 04:00:01 UTC 2016 [xz](https://transfer.sh/CLrB4/bootstrap.dat.20161027.tar.xz) (361M) [zip](https://transfer.sh/ZuZef/bootstrap.dat.20161027.zip) (401M) [SHA256](https://transfer.sh/mUhqD/sha256.txt)
