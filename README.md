@@ -14,6 +14,8 @@
 
 ####For mainnet:
 
+Block 2066461: Thu Nov  3 14:33:01 UTC 2016 [xz](https://transfer.sh/14TWJL/bootstrap.dat.20161103.tar.xz) (364M) [zip](https://transfer.sh/NEGYu/bootstrap.dat.20161103.zip) (404M) [SHA256](https://transfer.sh/hCdSI/sha256.txt)
+
 Block 2053261: Sun Oct 30 05:00:01 UTC 2016 [xz](https://transfer.sh/OMVWb/bootstrap.dat.20161030.tar.xz) (363M) [zip](https://transfer.sh/qKfWW/bootstrap.dat.20161030.zip) (403M) [SHA256](https://transfer.sh/Ag4vB/sha256.txt)
 
 -e Block 2050061: Sat Oct 29 04:00:01 UTC 2016 [xz](https://transfer.sh/RYMOD/bootstrap.dat.20161029.tar.xz) (362M) [zip](https://transfer.sh/8pmNI/bootstrap.dat.20161029.zip) (402M) [SHA256](https://transfer.sh/kY3UD/sha256.txt)
