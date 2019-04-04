@@ -14,6 +14,8 @@
 
 ####For mainnet:
 
+Block 4752265: Thu Apr  4 01:59:15 UTC 2019 [zip](https://transfer.sh/TUiNT/bootstrap.dat.20190404.zip) (920M) [SHA256](https://transfer.sh/WC0a4/sha256.txt)
+
 Block : Mon Apr  1 10:00:01 UTC 2019 [zip]() (918M) [SHA256](Could not save metadata)
 
 Block : Fri Mar 29 10:00:01 UTC 2019 [zip](https://transfer.sh/WoDnq/bootstrap.dat.20190329.zip) (917M) [SHA256](https://transfer.sh/oVigw/sha256.txt)
@@ -23,8 +25,6 @@ Block 4725140: Tue Mar 26 00:20:06 UTC 2019 [zip](https://transfer.sh/Jd35K/boot
 Block 4725066: Mon Mar 25 23:48:36 UTC 2019 [zip](https://transfer.sh/uBUHQ/bootstrap.dat.20190325.zip) (872M) [SHA256](https://transfer.sh/kLNqT/sha256.txt)
 
 Block : Fri Mar 22 10:00:02 UTC 2019 [zip]() (872M) [SHA256]()
-
-Block : Fri Mar 15 10:00:01 UTC 2019 [zip]() (872M) [SHA256](Could not save metadata)
 
 ### Donations are welcome:
 
