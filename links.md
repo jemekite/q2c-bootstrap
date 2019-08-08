@@ -1,3 +1,5 @@
+Block : Thu Aug  8 10:00:01 UTC 2019 [zip](https://this-is-my.life/4UxwE/bootstrap.dat.20190808.zip) (995M) [SHA256](https://this-is-my.life/Bi7EC/sha256.txt)
+
 Block : Thu Aug  1 10:00:01 UTC 2019 [zip](https://this-is-my.life/13VS8Q/bootstrap.dat.20190801.zip) (990M) [SHA256](https://this-is-my.life/528Xi/sha256.txt)
 
 Block : Mon Jul 29 10:00:01 UTC 2019 [zip](https://this-is-my.life/8e6xb/bootstrap.dat.20190729.zip) (988M) [SHA256](https://this-is-my.life/XMcQA/sha256.txt)
@@ -7,5 +9,3 @@ Block : Mon Jul 22 10:00:01 UTC 2019 [zip](https://this-is-my.life/agaI8/bootstr
 Block : Mon Jul 15 10:00:01 UTC 2019 [zip](https://this-is-my.life/kj6hs/bootstrap.dat.20190715.zip) (978M) [SHA256](https://this-is-my.life/bPsZG/sha256.txt)
 
 Block : Mon Jul  8 10:00:01 UTC 2019 [zip](https://this-is-my.life/q8nra/bootstrap.dat.20190708.zip) (974M) [SHA256](https://this-is-my.life/12JzFi/sha256.txt)
-
-Block : Mon Jul  1 10:00:01 UTC 2019 [zip](https://this-is-my.life/qcOLh/bootstrap.dat.20190701.zip) (970M) [SHA256](https://this-is-my.life/4eeWd/sha256.txt)
